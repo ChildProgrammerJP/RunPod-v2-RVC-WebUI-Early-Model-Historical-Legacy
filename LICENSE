@@ -11,13 +11,21 @@ https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI
 https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 
 Here are the changes by ChildProgrammer
+Only v2 40k Edition
 infer-web.py：
 Row 1169：maximum=2333 → maximum=1000（id）
 Row 1456：maximum=4 → maximum=1000（id）
 Row 1498：maximum=50 → maximum=1000（save_every_epoch）
 
+v2 All Edition
+Row 1318：maximum=2333 → maximum=1000（id）
+Row 1655：maximum=4 → maximum=1000（id）
+Row 1697：maximum=50 → maximum=1000（save_every_epoch）
+
 requirements.txt：
 Fine-tuned dependencies.
+
+
 
 ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
 
