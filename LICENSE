@@ -17,11 +17,6 @@ Row 1169：maximum=2333 → maximum=1000（id）
 Row 1456：maximum=4 → maximum=1000（id）
 Row 1498：maximum=50 → maximum=1000（save_every_epoch）
 
-infer-web.py：
-train_nsf_sim_cache_sid_load_pretrain.py：
-Other sample rate settings for v2 also added
-
-
 v2 All Edition
 Row 1318：maximum=2333 → maximum=1000（id）
 Row 1655：maximum=4 → maximum=1000（id）
